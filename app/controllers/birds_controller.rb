@@ -1,2 +1,4 @@
-class BirdsController < ApplicationController
+class BirdsController < ApplicationControllers
+
+     
 end
