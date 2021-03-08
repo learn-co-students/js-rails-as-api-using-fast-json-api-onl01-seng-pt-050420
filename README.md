@@ -5,7 +5,7 @@
 - Introduce the Fast JSON API gem
 - Create serializers using the Fast JSON API gem
 - Render related object attributes into JSON data
-
+ 
 ## Introduction
 
 We've seen that it is entirely possible to create our own service class
